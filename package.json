@@ -1,0 +1,28 @@
+{
+  "name": "react-quiz",
+  "version": "1.0.0",
+  "description": "React Quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-captain-america/react-quiz.git"
+  },
+  "keywords": [
+    "React",
+    "QUiz"
+  ],
+  "author": "the-captain-america",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/the-captain-america/react-quiz/issues"
+  },
+  "homepage": "https://github.com/the-captain-america/react-quiz#readme",
+  "dependencies": {
+    "@bupa-digital/shades": "^2.0.0-beta.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
